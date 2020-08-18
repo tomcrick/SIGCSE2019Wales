@@ -1,2 +1,2 @@
-# SIGCSE2019Wales
-Paper for 50th ACM Technical Symposium on Computer Science Education (SIGCSE 2019)
+# SIGCSE2021Wales
+Paper for 52nd ACM Technical Symposium on Computer Science Education (SIGCSE 2021)
